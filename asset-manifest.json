@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-router-v6.2/static/css/main.dd518351.css",
+    "main.js": "/react-router-v6.2/static/js/main.9d10b61a.js",
+    "static/css/884.c1165da1.chunk.css": "/react-router-v6.2/static/css/884.c1165da1.chunk.css",
+    "static/js/884.80342a7a.chunk.js": "/react-router-v6.2/static/js/884.80342a7a.chunk.js",
+    "static/css/808.0828dc97.chunk.css": "/react-router-v6.2/static/css/808.0828dc97.chunk.css",
+    "static/js/808.675e3b28.chunk.js": "/react-router-v6.2/static/js/808.675e3b28.chunk.js",
+    "static/js/922.1252cb64.chunk.js": "/react-router-v6.2/static/js/922.1252cb64.chunk.js",
+    "static/css/857.33c00036.chunk.css": "/react-router-v6.2/static/css/857.33c00036.chunk.css",
+    "static/js/857.f4d38def.chunk.js": "/react-router-v6.2/static/js/857.f4d38def.chunk.js",
+    "static/js/559.49903407.chunk.js": "/react-router-v6.2/static/js/559.49903407.chunk.js",
+    "index.html": "/react-router-v6.2/index.html",
+    "main.dd518351.css.map": "/react-router-v6.2/static/css/main.dd518351.css.map",
+    "main.9d10b61a.js.map": "/react-router-v6.2/static/js/main.9d10b61a.js.map",
+    "884.c1165da1.chunk.css.map": "/react-router-v6.2/static/css/884.c1165da1.chunk.css.map",
+    "884.80342a7a.chunk.js.map": "/react-router-v6.2/static/js/884.80342a7a.chunk.js.map",
+    "808.0828dc97.chunk.css.map": "/react-router-v6.2/static/css/808.0828dc97.chunk.css.map",
+    "808.675e3b28.chunk.js.map": "/react-router-v6.2/static/js/808.675e3b28.chunk.js.map",
+    "922.1252cb64.chunk.js.map": "/react-router-v6.2/static/js/922.1252cb64.chunk.js.map",
+    "857.33c00036.chunk.css.map": "/react-router-v6.2/static/css/857.33c00036.chunk.css.map",
+    "857.f4d38def.chunk.js.map": "/react-router-v6.2/static/js/857.f4d38def.chunk.js.map",
+    "559.49903407.chunk.js.map": "/react-router-v6.2/static/js/559.49903407.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd518351.css",
+    "static/js/main.9d10b61a.js"
+  ]
+}
